@@ -1,0 +1,42 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '10.0'
+
+target 'teleropa' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  # use_frameworks!
+
+  # Pods for teleropa
+  pod 'Firebase/Core'
+  pod 'Firebase/Messaging'
+
+  pod 'ReactNativePayments', :path => '../node_modules/react-native-payments'
+
+  pod 'RNVectorIcons', :path => '../node_modules/react-native-vector-icons'
+
+
+  pod 'RNReanimated', :path => '../node_modules/react-native-reanimated'
+
+  pod 'RNScreens', :path => '../node_modules/react-native-screens'
+
+  pod 'BVLinearGradient', :path => '../node_modules/react-native-linear-gradient'
+
+  target 'teleropaTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end
+
+target 'teleropa-tvOS' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for teleropa-tvOS
+
+  target 'teleropa-tvOSTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end
+

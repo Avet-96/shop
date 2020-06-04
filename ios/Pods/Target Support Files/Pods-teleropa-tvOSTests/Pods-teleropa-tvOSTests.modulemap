@@ -1,0 +1,6 @@
+framework module Pods_teleropa_tvOSTests {
+  umbrella header "Pods-teleropa-tvOSTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

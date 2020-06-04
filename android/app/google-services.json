@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "738484780355",
+    "firebase_url": "https://teleropa-9c0e5.firebaseio.com",
+    "project_id": "teleropa-9c0e5",
+    "storage_bucket": "teleropa-9c0e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738484780355:android:0faf14df3487598d",
+        "android_client_info": {
+          "package_name": "com.teleropa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738484780355-vq9s9evvuut5k8u9bj8hmkggd87khcmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbRYGitwyWspBGmU3xRddd5aXysM1pCAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738484780355-vq9s9evvuut5k8u9bj8hmkggd87khcmo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "738484780355-b46fc176gohdklu5mog22hiffmnoa6h0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.teleropa.teleropa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
