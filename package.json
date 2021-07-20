@@ -18,7 +18,7 @@
     "react": "16.6.3",
     "react-dom": "^16.13.0",
     "react-htmltext": "^0.40.2",
-    "react-native": "^0.59.4",
+    "react-native": "^0.62.3",
     "react-native-base64": "0.0.2",
     "react-native-cli": "^2.0.1",
     "react-native-device-info": "^1.1.0",
